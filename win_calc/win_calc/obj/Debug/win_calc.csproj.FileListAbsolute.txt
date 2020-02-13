@@ -1,0 +1,9 @@
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\bin\Debug\win_calc.exe.config
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\bin\Debug\win_calc.exe
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\bin\Debug\win_calc.pdb
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.csprojAssemblyReference.cache
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.Form1.resources
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.Properties.Resources.resources
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.csproj.GenerateResource.cache
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.exe
+C:\Users\mahdi\Pictures\C_Sharp\win_calc\win_calc\obj\Debug\win_calc.pdb
